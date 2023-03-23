@@ -1,0 +1,10 @@
+numpy 
+pandas
+matplotlib
+jupyter
+keras
+scipy
+sklearn
+seaborn
+geopandas
+# pip install -r requirements.txt
