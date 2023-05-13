@@ -7,3 +7,5 @@ price_list = [
 
 prices = [item for item in price_list if item[1] >= 10]
 print(prices)
+lst=[i for i in range(20)]
+print(lst)

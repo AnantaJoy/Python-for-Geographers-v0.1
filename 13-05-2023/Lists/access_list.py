@@ -9,4 +9,5 @@ print(country[:5])
 print(country[-1])
 print(country[-4:-1])
 print(country[::-1])
-print(country[::2])
+#start:end:step
+print(country[::4])

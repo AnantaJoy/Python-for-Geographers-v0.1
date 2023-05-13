@@ -7,9 +7,10 @@ for month in months:
     
 for month in months:
     print(month, end=' ')
+    print("\n")
     
 for month in enumerate(months):
     print(month)
     
 for index, month in enumerate(months):
-    print(index, month)
+    print(index+1, month)

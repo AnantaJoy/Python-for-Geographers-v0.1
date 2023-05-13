@@ -13,3 +13,4 @@ print(letters + vowel)
 # iterable
 name = list("Geography")
 print(name)
+print(type(name))
